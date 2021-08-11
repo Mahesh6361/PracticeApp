@@ -1,0 +1,13 @@
+{
+    "displayName": "sampleapp",
+    "appName": "sampleapp",
+    "description": "sampleapplication for training",
+    "lastModified": "2021-08-11T08:56:25.243Z",
+    "imgSourcePath": "",
+    "version": "1.0.0",
+    "appType": "classic",
+    "templateName": "blank",
+    "createDate": "2021-08-11T08:56:24.510Z",
+    "analyticsId": "c6d39851-aa35-ff76-f6b2-ffe6c946ee94",
+    "createdStudioVersion": "7.9.0"
+}

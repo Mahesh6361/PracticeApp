@@ -1,0 +1,22 @@
+{
+    "c296893d-cfec-5ad5-4560-1573b285c189": {
+        "dataModelId": "c296893d-cfec-5ad5-4560-1573b285c189",
+        "name": "employee",
+        "description": "employee Details",
+        "dataSource": "neutrinos-training-rt",
+        "fields": [
+            {
+                "name": "username",
+                "fieldType": 2,
+                "isArray": false,
+                "type": "string"
+            },
+            {
+                "name": "password",
+                "fieldType": 1,
+                "isArray": false,
+                "type": "number"
+            }
+        ]
+    }
+}

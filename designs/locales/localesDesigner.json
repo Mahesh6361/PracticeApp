@@ -1,0 +1,18 @@
+{
+    "en": {
+        "localeId": "en",
+        "localeName": "English",
+        "isDefaultLanguage": false,
+        "properties": {
+            "buttoname": "submit"
+        }
+    },
+    "hi": {
+        "localeId": "hi",
+        "localeName": "Hindi",
+        "isDefaultLanguage": true,
+        "properties": {
+            "buttoname": "प्रस्तुत"
+        }
+    }
+}

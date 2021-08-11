@@ -1,0 +1,8 @@
+<div fxLayout="row wrap" fxLayoutAlign="start stretch" [fxShow]="true" [fxHide]="false">
+  <div fxLayout="column wrap" fxLayoutGap="10" fxLayoutAlign="start stretch" [fxShow]="true" [fxHide]="false">
+    <div style="margin-bottom:20px;">
+      Username is : {{parentMessage.username}}</div>
+    <div style="margin-bottom:20px;">
+      Password is : {{parentMessage.password}}</div><button mat-raised-button style="background-color:red; color:white;" (click)="messageRecieved()">{{locales.buttoname}}</button>
+  </div>
+</div>
